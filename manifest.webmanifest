@@ -1,6 +1,6 @@
 {
-  "name": "hello-world",
-  "short_name": "hello-world",
+  "name": "ElectricityBillManagement",
+  "short_name": "ElectricityBillManagement",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
@@ -42,11 +42,6 @@
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "maskable"
-    },
-    {
-      "src":"assets/icons/256_icon.png",
-      "sizes":"256x256",
-      "type":"image/png"
     },
     {
       "src": "assets/icons/icon-384x384.png",
